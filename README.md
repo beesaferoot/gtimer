@@ -20,4 +20,11 @@ Once the timer is started, the start button is disabled to prevent creating mult
 
 ## Screen Shot 
 
-![gtimer](/gtimer/screenshot.png)
+![gtimer](./screenshot.png)
+
+
+## Run 
+
+```bash 
+go run main.go
+```
